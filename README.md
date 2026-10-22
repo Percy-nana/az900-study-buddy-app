@@ -3,8 +3,8 @@
 > **Unofficial community study tool. Not affiliated with, endorsed by, or sponsored by Microsoft.**
 > Built for the #1MillionDevs Vibe Coding Hackathon: AZ-900 Exam Prep Edition.
 
-**Live demo:** [ADD YOUR .bolt.host LINK]
-**Pitch deck:** [ADD CANVA LINK]
+**Live demo:** https://azure-az900-study-bu-bjsc.bolt.host
+**Pitch deck:** https://canva.link/9naioxmkgqpvnb7
 
 ## Why I built this
 
